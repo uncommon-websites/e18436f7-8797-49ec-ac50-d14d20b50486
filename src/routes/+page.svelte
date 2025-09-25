@@ -10,12 +10,20 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	title="Automate the work you didn't sign up for"
+	subtitle="Set up workflows in minutes. No specialists needed."
+	imageSrc="/generated/image-a-professional-operations-manager-stands.webp"
+	centered={false}
 />
-<LogoScroller label="" generating />
+<LogoScroller 
+	label="Trusted by operations leaders" 
+	logoUrls={[
+		'https://cdn.brandfetch.io/notion.so/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/airtable.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/canva.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/typeform.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
