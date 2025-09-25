@@ -26,10 +26,9 @@
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	title="Work smarter, not longer"
+	subtitle="Bring clarity to how work really gets done"
+	imageSrc="/generated/image-a-diverse-startup-operations-team-collab.webp"
 />
 
 <!-- Story Section -->
