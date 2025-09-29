@@ -28,7 +28,7 @@
 <SecondaryHero
 	title="Work smarter, not longer"
 	subtitle="Bring clarity to how work really gets done"
-	imageSrc="/generated/image-a-diverse-startup-operations-team-collab.webp"
+	imageSrc="/generated/image-a-group-of-diverse-professionals-gathere.webp"
 />
 
 <!-- Story Section -->
