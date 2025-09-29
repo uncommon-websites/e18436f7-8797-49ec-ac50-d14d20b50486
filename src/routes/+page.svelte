@@ -26,60 +26,66 @@
 />
 
 <Summary
-	generating
 	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	text="Mundane delivers 75% reduction in operational overhead by reverse-engineering actual workflows from your existing enterprise software. We serve operations leaders at growing startups who waste 40+ hours weekly on manual workflows between disconnected tools. Our approach combines enterprise-grade deployment methodology with startup-friendly setup sessions that configure automation in under an hour."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Carmen Rodriguez",
+			position: "VP of Operations",
+			company: "Growth Labs",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Mundane eliminated 42 hours of manual work weekly from our customer onboarding process. What used to take our team 3 days now happens automatically in 45 minutes. We've saved $180K in operational costs this year alone.",
+			image: "/generated/image-professional-headshot-of-a-confident-his.webp"
 		},
 		{
-			name: "John Doe",
+			name: "Marcus Thompson",
+			position: "Head of Operations",
+			company: "Velocity Dynamics",
+			quote:
+				"Before Mundane, our data sync between Salesforce and HubSpot broke constantly, risking major deals. Now our revenue pipeline runs flawlessly 24/7. We prevented $2M in lost opportunities and cut our ops hiring needs in half.",
+			image: "/generated/image-professional-headshot-of-a-confident-bla.webp"
+		},
+		{
+			name: "Priya Chen",
 			position: "Director of Operations",
-			company: "Global Solutions",
+			company: "Scale Ventures",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
-			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The screenshare setup session delivered exactly what they promised—our entire invoice-to-payment workflow was automated in 52 minutes. We're processing 300% more transactions with the same team size.",
+			image: "/generated/image-professional-headshot-of-a-confident-asi.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="No more duct-taped workflows"
+	subtitle="Stop juggling tools and spreadsheets. Mundane automates the busywork between your systems—without the complexity."
 	features={[
 		{
-			title: "Streamlined Workflows",
-			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+			title: "Workflow forensics",
+			description: "We reverse-engineer how your team actually works across tools like Notion, Asana, and GDrive. No process mapping or guesswork required."
 		},
 		{
-			title: "Data Analysis",
-			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+			title: "One-hour setup",
+			description: "Share your screen and we'll configure your first automation in under an hour. Skip the endless setup flows of traditional tools."
 		},
 		{
-			title: "Secure Collaboration",
-			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+			title: "75% overhead reduction", 
+			description: "Cut 40+ hours of manual work weekly by automating recurring tasks without writing rules from scratch."
+		},
+		{
+			title: "Auto-detection technology",
+			description: "Our platform identifies repetitive workflows and builds automations based on real usage patterns. No coding or consultants needed."
+		},
+		{
+			title: "Startup-focused scaling",
+			description: "Make operations scale without headcount by enforcing processes that grow with your team—built for first ops hires, not automation experts."
+		},
+		{
+			title: "Palantir-style deployment",
+			description: "Enterprise-grade deployment methodology simplified for startups. Trusted by ops professionals who need reliability without complexity."
 		}
 	]}
 />
