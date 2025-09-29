@@ -12,15 +12,15 @@
 	const values = [
 		{
 			title: "Forensic precision",
-			description: "We reverse-engineer your actual workflows, not what you think they should be. Our approach uncovers the hidden inefficiencies that drain 40+ hours from your team weekly."
+			description: "We reverse-engineer how your team actually works—not theoretical processes or wishful thinking. By analyzing real software usage patterns, we uncover the repetitive tasks that consume 40+ hours of your team's time each week."
 		},
 		{
 			title: "Deployment excellence",
-			description: "Borrowing from Palantir's proven methodology, we configure your automation in under an hour through screenshare sessions. No complex setup, no learning curves."
+			description: "Built on Palantir-inspired deployment methodology, simplified for startups. One screenshare session, one hour of your time, and your first automation goes live. No training manuals, no configuration headaches."
 		},
 		{
 			title: "Community-driven growth",
-			description: "We grow through the startup ops community because great operations leaders know other great operations leaders. Word travels fast when you deliver 75% overhead reduction."
+			description: "We expand through the startup operations community, where trust spreads through Slack channels and peer recommendations. When you consistently deliver 75% overhead reduction, word travels fast among ops professionals."
 		}
 	];
 </script>
@@ -47,22 +47,22 @@
 <!-- StakeholderGrid Section -->
 <StakeholderGrid
 	stakeholderType="team"
-	title="Meet our founder."
-	subtitle="Leading the charge in workflow automation."
+	title="Meet our founder"
+	subtitle="Leading the charge in workflow automation"
 	stakeholders={[
 		{
 			name: "Keith Fearon",
 			position: "Founder & CEO",
 			bio: "Reverse-engineering enterprise workflows to deliver 75% operational overhead reduction for growing startups.",
-			image: "/generated/image-professional-ceo-headshot-portrait-busin.webp"
+			image: "/generated/image-professional-ceo-headshot-portrait-of-a-.webp"
 		}
 	]}
 />
 
 <!-- CTA Section -->
 <CallToAction
-	title="Ready to reclaim your time?"
-	subtitle="75% overhead reduction starts here"
-	description="Stop wasting 40+ hours weekly on manual workflows. Join operations leaders at growing startups who've automated their processes in under an hour."
-	imageSrc="/generated/image-an-operations-manager-sits-at-a-tidy-des.webp"
+	title="Stop drowning in manual workflows"
+	subtitle="Join operations leaders reclaiming 40+ hours weekly"
+	description="One screenshare session. One hour of your time. 75% less operational overhead. No complex setup, no learning curves—just proven workflow automation that scales with your growing startup."
+	imageSrc="/generated/image-an-operations-manager-celebrating-at-a-m.webp"
 />
